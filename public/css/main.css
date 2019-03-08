@@ -1,0 +1,16 @@
+.content{
+    width: 60%;
+    margin: auto;
+}
+
+.content form{
+    width: 100%;
+}
+
+.input_size, .row{
+    width: 100%!important;
+}
+
+.center_btn{
+    margin: 2% auto;
+}
